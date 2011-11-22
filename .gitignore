@@ -1,2 +1,8 @@
 
 *.dll
+*.user
+*.suo
+*.version
+*.crc
+*.dat
+*.bin
