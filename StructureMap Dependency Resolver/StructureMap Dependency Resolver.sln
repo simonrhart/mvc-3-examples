@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Framework", "App.Framework\App.Framework.csproj", "{97FC8D65-D5BF-47F2-93BB-A4460024C15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Framework.Tests", "App.Framework.Tests\App.Framework.Tests.csproj", "{AC16D919-99C2-4F65-9A20-16553BA11B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97FC8D65-D5BF-47F2-93BB-A4460024C15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FC8D65-D5BF-47F2-93BB-A4460024C15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FC8D65-D5BF-47F2-93BB-A4460024C15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FC8D65-D5BF-47F2-93BB-A4460024C15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC16D919-99C2-4F65-9A20-16553BA11B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC16D919-99C2-4F65-9A20-16553BA11B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC16D919-99C2-4F65-9A20-16553BA11B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC16D919-99C2-4F65-9A20-16553BA11B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

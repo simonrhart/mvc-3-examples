@@ -6,3 +6,5 @@
 *.crc
 *.dat
 *.bin
+*.pdb
+*.cache
